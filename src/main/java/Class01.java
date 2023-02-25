@@ -2,6 +2,6 @@ public class Class01 {
     public static void main(String[] args) {
         System.out.println("Birinci Calismam");
     }
-    public statis void (){
+    public static void ex(){
     }
 }
